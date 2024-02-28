@@ -4,6 +4,6 @@
 系級：科技系二年級  
 # 課程筆記區
 # 作業連結區  
-[作業一](https://youtu.be/ynqkusMk8qo?si=1-ZUpwTDDGbFBdHV)  
+[作業一](https://youtu.be/ynqkusMk8qo?si=1-ZUpwTDDGbFBdHV)
 [作業一檔案](https://github.com/jaison5/112-2-/blob/main/%E4%BD%9C%E6%A5%AD%E4%B8%80%E6%AA%94%E6%A1%88.ipynb)  
 # 專題連結區
