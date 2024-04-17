@@ -14,6 +14,6 @@
 [作業三影片解說](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 [作業三JSON](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 [作業三CSV]()  
-[作業三原始檔案]()
+[作業三原始檔案](https://github.com/jaison5/112-2-/blob/main/%E4%BD%9C%E6%A5%AD%E4%B8%89%E6%AA%94%E6%A1%88%E8%B3%87%E6%96%99/%E9%95%B7%E6%A6%AE%E8%88%AA%E7%A9%BA%E6%A9%9F%E9%9A%8A%E8%B3%87%E6%96%99%E7%88%AC%E8%9F%B2%E7%A8%8B%E5%BC%8F%E7%A2%BC.ipynb)
 
 # 專題連結區
