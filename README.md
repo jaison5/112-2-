@@ -16,6 +16,6 @@
 [作業三CSV](https://github.com/jaison5/112-2-/blob/main/%E4%BD%9C%E6%A5%AD%E4%B8%89%E6%AA%94%E6%A1%88%E8%B3%87%E6%96%99/%E9%95%B7%E6%A6%AE%E8%88%AA%E7%A9%BA%E6%A9%9F%E9%9A%8A%E8%B3%87%E6%96%99%E7%88%AC%E8%9F%B2.csv)  
 [作業三原始檔案ipynb](https://github.com/jaison5/112-2-/blob/main/%E4%BD%9C%E6%A5%AD%E4%B8%89%E6%AA%94%E6%A1%88%E8%B3%87%E6%96%99/%E9%95%B7%E6%A6%AE%E8%88%AA%E7%A9%BA%E6%A9%9F%E9%9A%8A%E8%B3%87%E6%96%99%E7%88%AC%E8%9F%B2%E7%A8%8B%E5%BC%8F%E7%A2%BC.ipynb)  
 ## 作業四
-[作業四影片解說]((https://youtu.be/IKieFIGFGJo?si=goUwkwezrZ1q2lOW)  
+[作業四影片解說](https://youtu.be/IKieFIGFGJo?si=goUwkwezrZ1q2lOW)  
 [作業四檔案與關聯圖](https://github.com/jaison5/112-2-/blob/main/%E4%BD%9C%E6%A5%AD%E5%9B%9B%E6%AA%94%E6%A1%88%E8%B3%87%E6%96%99/%E4%BD%9C%E6%A5%AD%E5%9B%9B-%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E7%88%AC%E8%9F%B2%E8%B3%87%E6%96%99%E9%97%9C%E8%81%AF%E5%9C%96%E5%8E%9F%E5%A7%8B%E7%A8%8B%E5%BC%8F.ipynb)
 # 專題連結區
